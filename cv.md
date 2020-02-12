@@ -21,5 +21,4 @@
       Resources: [Codecademy](https://www.codecademy.com/learn), [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript), [FreeCodeCamp](https://www.freecodecamp.org/), [w3schools.com](https://www.w3schools.com/), [Coursera](https://www.coursera.org/learn/algorithms-part1), book _Eloquent Javascript_ by Marijn Haverbeke.
 
 - [x] **Personal skills**  
-
        Language: mother tongue Kazakh, Russian; English (IELTS 6.0); Spanish (Elementary level).
